@@ -1,6 +1,6 @@
-# Tor URL Checker
+# TorScrapper
 
-Bu proje, belirlenen bir hedef listesindeki URL'lerin erişilebilirliğini Tor ağı (SOCKS5 Proxy) üzerinden kontrol eden basit bir Go aracıdır.
+Bu proje, belirlenen bir hedef listesindeki Onion linklerin erişilebilirliğini Tor ağı üzerinden kontrol eden basit bir Go aracıdır.
 
 ## Özellikler
 
@@ -13,7 +13,7 @@ Bu proje, belirlenen bir hedef listesindeki URL'lerin erişilebilirliğini Tor a
 
 * Go (Golang) kurulu olmalıdır.
 * Tor servisi makinenizde kurulu ve çalışıyor olmalıdır.
-* Tor SOCKS5 proxy varsayılan portta (`9050`) dinliyor olmalıdır.
+* Tor proxy varsayılan portta (`9050`) dinliyor olmalıdır.
 
 ## Kurulum
 
